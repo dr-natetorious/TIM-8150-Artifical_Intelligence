@@ -12,6 +12,15 @@ Lukac, D., Milic, M., & Nikolic, J. (2018). From Artificial Intelligence to Augm
 
 > This paper provides an overview of modern AI
 
+The short article covers the people that innovated across various sciences to produce artificial intelligence. These efforts began in ancient Greece with the ideas coming to fruition around the 1930s through formalization of mathmatical models.
+
+Artificial intelligence comes in four categories:
+
+- Systems that think like humans;
+- Systems that act like humans;
+- Systems that think rationally;
+- Systems that act rationally.
+
 ## A Review of Artificial Intelligence Methods for Data Science and Data Analytics: Applications and Research Challenges (2018)
 
 Krishna, C.V.; Rohit, H.R.; Mohana. (2018). A Review of Artificial Intelligence Methods for Data Science and Data Analytics: Applications and Research Challenges.  2018 2nd International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC). 30-31 Aug. 2018. Palladam, India, India. [DOI](https://doi-org.proxy1.ncu.edu/10.1109/I-SMAC.2018.8653670). [MethodDataScience.pdf](MethodDataScience.pdf).
