@@ -6,6 +6,16 @@ Buchanan, B. G. (2005). A (Very) Brief History of Artificial Intelligence. AI Ma
 
 > This paper provides a brief history of AI introducing basic concepts and principles.
 
+The voyage toward AI has been a long journey.  During the early 1900s models attempted to reproduce human intelligence.  The defacto platform was to build solvers for chess, which reached the point of DeepBlue beating the chessmaster in 1997.  Along the way solvers began with heuristics that would reduce the trial-and-error search space.  Creating new and innovative heuristics became the state of the art solution deep into the 1960s.
+
+> The most central idea of the pre-1962 period was that of finding heuristic devices to control
+the breadth of a trial-and-error search. A close second preoccupation was with finding effective techniques for learning. In the post-1962 era the concern became less with "learning" and more with the problem of representation of knowledge (however acquired) and with the related problem of breaking through the formality and narrowness of the older systems. The problem of heuristic search efficiency remains as an underlying constraint, but it is no longer the problem one thinks about, for we are now
+immersed in more sophisticated subproblems, e.g., the representation and modification of plans" (Minsky 1968, p. 9).
+
+Another common challenge was text parsing and translation.  Original approaches would use large dictionaries and do literal term replacements, however, these results were laughable and broadly defunded.  Modern methods extract both the raw phrases and the conversational context.
+
+In the middle were various programming languages (e.g., LISP) to address these challenges.  These systems generally follow an algebraic solver approach.  While primative by modern standards, it was possible to defeat humans at board games.  Others researchers found success with rule based models that would even introduce erroneous decisions to more closely mimic humans.
+
 ## From Artificial Intelligence to Augmented Age An Overview (2018)
 
 Lukac, D., Milic, M., & Nikolic, J. (2018). From Artificial Intelligence to Augmented Age An Overview. 2018 Zooming Innovation in Consumer Technologies Conference (ZINC), Zooming Innovation in Consumer Technologies Conference (ZINC), 2018, 100–103. [DOI](https://doi-org.proxy1.ncu.edu/10.1109/ZINC.2018.8448793).  [AugmentedAge.pdf](AugmentedAge.pdf).
