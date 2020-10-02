@@ -43,6 +43,10 @@ Brock, J. K.-U., & von Wangenheim, F. (2019). Demystifying AI: What Digital Tran
 
 > In the context of digital transformation, a framework for successfully implementing AI is presented in this paper.
 
+For every success story deploying machine learning; there are dozens of failures.  The authors collected survey results from senior managers and review the responses.  When reviewing the leaders and laggers the biggest difference was leadership and preparation.  They created the DIGITAL mnemonic to weed out these challenges upfront and improve the probability of success.
+
+![digital.png](digital.png)
+
 ## The Feeling Economy: Managing in the Next Generation of Artificial Intelligence (AI) (2019)
 
 Huang, M.-H., Rust, R., & Maksimovic, V. (2019). The feeling economy: Managing in the next generation of artificial intelligence (AI). California Management Review, 61(4), 43–65. [DOI](https://doi-org.proxy1.ncu.edu/10.1177/0008125619863436). [FeelingEconomy.pdf](FeelingEconomy.pdf).
