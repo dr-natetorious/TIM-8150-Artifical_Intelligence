@@ -107,3 +107,37 @@ Huang, M.-H., Rust, R., & Maksimovic, V. (2019). The feeling economy: Managing i
 
 Garbuio, M., & Lin, N. (2019). Artificial intelligence as a growth engine for health care startups: Emerging business models. California Management Review, 61(2), 59–83. [DOI](https://doi-org.proxy1.ncu.edu/10.1177/0008125618811931).  [GrowthEngineHealthCare.pdf](GrowthEngineHealthCare.pdf).
 
+The authors performed a three year survey of startups and health care prationiners to understand _how incorporating artifical intelligence results produces business value in HealthCare systems_.  From a list of 106 innovators according to Forbes, they selected a subset of thirty that span the entire vertical.
+
+![fundamental_types.png](fundamental_types.png)
+
+### Building the business case
+
+> For a solution to thrive in the marketplace, it needs to begin with a clear definition of the value that is to be created for a particular user. The question of value relates to the question of who is the user that the solution aims to address.
+
+When business leaders began creating [Your.MD](https://your.md), they wanted to `personalize searching for medical information` in a `patient-centric` manner.  The HealthCare industry is frequently behind the curve on industry trends and this capability was generally lacking.  After identifying the problem and user, they began building a system for that narrow slice.  Once that capability was available, then marketing and executive teams could identify delivery platforms (e.g., mobile device) and how best to frame the impact to customers.
+
+> With mobile phones becoming ubiquitous and providing you with computing power on your hands and an easy connection to centralized computing power, there must be a way to get people the health information they need for free when they need it... So mobile phones plus health equals something useful for a lot of people. The original idea was just to give information to people (pg 63).
+
+Meanwhile, Jvoins provides _cognitive clinical success machines_, that help patients rationalize their biometrics, known illnesses, and healthcare costs. Being under or overinsured results in stress or waste on the patients part.  With that consciense value-statement Jvoins `later` built a business model to profit from this service.
+
+![healthcare_value.png](healthcare_value.png)
+
+### How to select the most suitable AI-technology development strategy
+
+The authors provide a logical decision tree to choose the right technology (pg 78).  Their model is relatively similar to project planning, as discussed in [TIM-7030 Managing Risk Week 4](https://github.com/dr-natetorious/TIM-7030-Managing_Risks_and_Privacy/tree/master/Week4_SecureDevelopment).
+
+1. What stage is the company at?
+2. Does the insights from AI rely more on the available data or on the algorithm that can be built
+3. What does the company sell?
+4. What are the corporate resources available
+
+## Programs with Common Sense (1959)
+
+McCarthy, J (1959). Programs with common sense.  Stanford Computer Science Department. Retrieved from [Stanford.edu](http://www-formal.stanford.edu/jmc/).  [ProgramsWithCommonSense.pdf](ProgramsWithCommonSense.pdf).
+
+The author describes a method for building artifical intelligence by defining rules that support _transitive logic_.  For instance, `can{ walk(a,b), walk(b,c) }` infers the actor could also `walk(a,c)`.  These ideas become more complex as the actions are hierarchialized (e.g., `run vs walk`).
+
+While the paper does not provide a formal proof of these ideas, nor a direct implementation; they propose some potential future directions of research.  [Buchanan](BriefHistory.pdf) made a similar observation that these sorts of ideas build into the foundation that becomes modern machine learning.
+
+I could envision a system that uses this approach to generate contextual graphs.  These graphs could then be traversed to produce semantic statements about a problem.  The problem gets harder when you start thinking about compounded expressions like `begin_commute = if { walk(a,resturant(b)) and is_open(b) }`.  Perhaps a simple agent determines the resturant closes in 30min and its a 35min walk.  However, a smarter system could contextually understand that _running_ reduces the time to a 20min commute.
