@@ -43,9 +43,39 @@ Brock, J. K.-U., & von Wangenheim, F. (2019). Demystifying AI: What Digital Tran
 
 > In the context of digital transformation, a framework for successfully implementing AI is presented in this paper.
 
+### What are the DIGITAL challenges
+
 For every success story deploying machine learning; there are dozens of failures.  The authors collected survey results from senior managers and review the responses.  When reviewing the leaders and laggers the biggest difference was leadership and preparation.  They created the DIGITAL mnemonic to weed out these challenges upfront and improve the probability of success.
 
 ![digital.png](digital.png)
+
+### What is the Business Impact and Challenges
+
+> Interestingly, the application of AI was typically an integral part of a firm's digital transformation project. With the exception of isolated experimentation with specific AI techniques such as deep learning, AI was not used in isolation, but as one technological element of several technologies aimed at enhancing a firm's present and future business (pg. 115).
+
+Similar to other technologies the business must plan and make an conscienceous investment.  This requires building up internal capabilities to deliver on the broader vision.  When senior leadership assumes that AI operates as a magic black box, they are unlikely to succeed.  Instead, _transformation requires transforming_, and this is an explicit and intentional action.
+
+> These results suggest that, just like with other technological innovations in the past, to realize the potential of the new digital technology, AI requires specific organizational capabilities as the firm and the new technology align for best application and impact (pg. 116).
+
+- Strategic capabilities: digital strategy and digital business development skills.
+- Technology capabilities: skills in new digital technologies such as AI or IoT.
+- Data capabilities: data science skills.
+- Security capabilities: cybersecurity skills.
+
+> Reflecting the importance of digital skills, the main challenge for all firms is lack of skilled staff and knowledge in digital technologies, which was mentioned as an implementation challenge by more than half of the firms combined. Lack of organizational agility, internal resistance to change, security risks, lack of leadership and sufficient funding, as well as the challenge of integrating new
+digital technology with existing technology were stated as challenges by about a quarter of the firms each. [...] `Contrary to our expectations, we uncover few differences in terms of challenges perceived by leaders versus laggards` (pg. 119).
+
+![challenges.png](challenges.png)
+
+### What does being grounded mean
+
+> Following the insights derived from more than 7,000 projects worldwide, we `conclude that firms are mainly applying the new digital technology to improve their existing business(es)` (see Figure 3). The reported business impacts of the DX leaders also suggest a grounded approach with impacts such
+as improving the existing offering, increasing revenue, or enhancing operational efficiency (see Figure 6). Managers embarking on AI projects should take this insight as suggestive of a rather grounded approach to AI, at least initially. `Rather than pursuing high-flying "pie-in-the-sky" projects, firms should "start small" with AI and base the project in their existing core business(es)`. Our opening case
+illustrated this: a focused application area and a relatively small project size (pg 125).
+
+### What does be integral mean
+
+> `Successful firm-wide AI implementations require an integral, holistic approach`. Being integral comes in six flavors: strategy, processes, data management, technology alignment, employee engagement, and culture. [...] As soon as AI leaves the experimental, feasibility-testing lab environment and is applied to a real business case, _managers should first make sure it is embedded in and supportive of the firms' digital strategy_ (pg 126). [...] `Integrated data management requires technology alignment`. Lack of it was one of the key barriers to AI success and successful alignment one of the key success factors we identified.  [...] Last, integral implies managers should ensure employee engagement and a supportive culture.
 
 ## The Feeling Economy: Managing in the Next Generation of Artificial Intelligence (AI) (2019)
 
