@@ -33,9 +33,31 @@ Artificial intelligence comes in four categories:
 
 ## A Review of Artificial Intelligence Methods for Data Science and Data Analytics: Applications and Research Challenges (2018)
 
-Krishna, C.V.; Rohit, H.R.; Mohana. (2018). A Review of Artificial Intelligence Methods for Data Science and Data Analytics: Applications and Research Challenges.  2018 2nd International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC). 30-31 Aug. 2018. Palladam, India, India. [DOI](https://doi-org.proxy1.ncu.edu/10.1109/I-SMAC.2018.8653670). [MethodDataScience.pdf](MethodDataScience.pdf).
+Krishna, C.V.; Rohit, H.R. Mohana. (2018). A Review of Artificial Intelligence Methods for Data Science and Data Analytics: Applications and Research Challenges.  2018 2nd International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC)I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC). 30-31 Aug. 2018. Palladam, India, India. [DOI](https://doi-org.proxy1.ncu.edu/10.1109/I-SMAC.2018.8653670). [MethodDataScience.pdf](MethodDataScience.pdf).
 
 > This paper describes the methods of AI, applications, hardware and software resources used, and some of the research challenges we are facing today.
+
+### What lead to modern AI technologies
+
+Artifical intelligence dates back to 1951 with programs written for [Ferranti Mark 1 Machine](https://en.wikipedia.org/wiki/Ferranti_Mark_1).  Roughly a decade later in 1965 Deep Learning is introduced by Alexey Grigoryevich Ivakhnenko and Valentin Grigor'evich Lapa.  Around 1997 recurrent neural networks are established and later exploited through GPU technologies of the 2000-10 era.  Modern systems consume substantually more layers using broad technology to deliver ever complicated computational models.
+
+### What are common strategies
+
+In [TIM-8130 Data Mining](https://github.com/dr-natetorious/TIM-8130-Data_Mining) many of these strategies are investigated in-depth.  However, a summary is provided here for completion of the articles notes.
+
+| Domain | Algorithm | Description|
+|---------|----------|------------|
+| Machine Learning| Decision Trees| hierarchial trees of learned rules|
+| Machine Learning|  SVG | Supervised classification and regression |
+| Machine Learning| Bayes| Independent feature classification |
+| Deep Learning| Back Prop | Creates a linear approximation of non parametric function|
+| Deep Learning| Skip-Gram| NLP strategy for grouping sentence fragements|
+
+### What are open problems with AI
+
+- Reasoning and problem solving; large models are ambigious and require additional considerations
+- Security; similar to notes from [TIM 8301 Principals of Cybersecurity](https://github.com/dr-natetorious/TIM-8301-Principals_of_CyberSecurity) there is no notion of integrity checks within ML
+- Motion and manipulation; robots in dynamics environments is complex problem that requires more efforts.
 
 ## Demystifying AI: What Digital Transformation Leaders Can Teach You about Realistic Artificial Intelligence (2019)
 
