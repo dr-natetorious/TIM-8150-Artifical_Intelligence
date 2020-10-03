@@ -103,6 +103,26 @@ illustrated this: a focused application area and a relatively small project size
 
 Huang, M.-H., Rust, R., & Maksimovic, V. (2019). The feeling economy: Managing in the next generation of artificial intelligence (AI). California Management Review, 61(4), 43–65. [DOI](https://doi-org.proxy1.ncu.edu/10.1177/0008125619863436). [FeelingEconomy.pdf](FeelingEconomy.pdf).
 
+Artificial intelligence has exploded across business processes and is quickly taking over mechanical and repetitive tasks (aka `Thinking Economy`).  More recently, systems are moving into the `Feelings Economy` and learning to `perform emotional and interpersonal tasks` as well.  While many people believe that jobs the focus on these soft-skills will be immute from displacement, the authors predict the opposite.  Using gov't data (O*NET by US Labor Dept) they highlight a growing trend across toward domination of machines.
+
+> Our analysis concludes that in the Feeling Economy, jobs will emphasize feeling tasks more, and workers will need to get more people-oriented, rather than more data-oriented, if they wish to leverage
+the benefits of thinking AI. Even for managerial jobs that have always had both people-focused tasks (i.e., communicating and coordinating with people), as well as thinking-focused tasks (i.e., analyzing data or information), our empirical evidence shows that the "soft" aspects of managerial jobs are becoming even more important and will need to be prioritized, compared with thinking and analytical
+skills, in opposition to what many people might generally assume or take for granted in this big data age (pg 44)
+
+![feelings_value.png](feelings_value.png)
+
+### What are the stages of AI evolution
+
+The authors provide these definitions and comparisons between them on page 46.
+
+- _Mechanical intelligence_ is the capability to do mechanical and repetitive tasks with relatively limited amounts of learning or adaptation.
+- _Thinking intelligence_ is the capability to analyze and make decisions rationally (or boundedly rationally) and involves learning and adapting systematically from data autonomously.
+- _Feeling intelligence_ is the capability to recognize, emulate, and respond appropriately to human emotions.
+
+### How will this influence future personas
+
+![manage_nextgen.png](manage_nextgen.png)
+
 ## AI as a Growth Engine (2019)
 
 Garbuio, M., & Lin, N. (2019). Artificial intelligence as a growth engine for health care startups: Emerging business models. California Management Review, 61(2), 59–83. [DOI](https://doi-org.proxy1.ncu.edu/10.1177/0008125618811931).  [GrowthEngineHealthCare.pdf](GrowthEngineHealthCare.pdf).
