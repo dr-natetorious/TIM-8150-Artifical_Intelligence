@@ -1,0 +1,7 @@
+# Neural Computation
+
+Artificial neural networks (ANN) are computing systems made up of a number of simple interconnected processing elements in analogy to the neural networks of the mammalian cerebral cortex. They process the information they receive in the form of input signals and produce output in the form of classification presented to them as input and produce predictions as outputs.
+
+While the theoretical basis of neural networks can be challenging to the casual user, it is nevertheless relative for someone to acquire an operational understanding through user-friendly applications and their supporting tutorials and training. This ability allowed an explosion in the use of ANN in recent years in fields as diverse as computer science, engineering, marketing, finance, and health care among others. Neural networks are used in modern organizations including text classifiers for the detection of spam and abusive content, inbound call screening, face recognition, etc.
+
+Two main categories of ANN are the multilayered feedforward and the self-organizing map. The former can be used for prediction problems, such as stock market prediction and risk classification, while the latter can be used for clustering data like in market segmentation. While these two categories have been used successfully for a wide range of business applications, their more modern alternatives, like the deep neural networks we will see in the following weeks, have provided a solution to more complicated problems like speech and face recognition.
