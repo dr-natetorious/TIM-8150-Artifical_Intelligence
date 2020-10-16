@@ -29,3 +29,19 @@ K. Sintoris and K. Vergidis, "Extracting Business Process Models Using Natural L
 Fu, Z. (2019). An Introduction of Deep Learning Based Word Representation Applied to Natural Language Processing. 2019 International Conference on Machine Learning, Big Data and Business Intelligence (MLBDBI), Machine Learning, Big Data and Business Intelligence (MLBDBI), 2019 International Conference On, 92–104. [DOI](https://doi-org.proxy1.ncu.edu/10.1109/MLBDBI48998.2019.00025). [DeepLearningToNLP.pdf](DeepLearningToNLP.pdf).
 
 > This paper provides an explanation of the theories behind two language models (autoencoding and autoregressive).
+
+## A Survey on NLP based Text Summarization for Summarizing Product Reviews (2020)
+
+R. Boorugu and G. Ramesh, "A Survey on NLP based Text Summarization for Summarizing Product Reviews," 2020 Second International Conference on Inventive Research in Computing Applications (ICIRCA), Coimbatore, India, 2020, pp. 352-356, [doi](https://doi-org.proxy1.ncu.edu/10.1109/ICIRCA48905.2020.9183355). [NLP_TextSummarization.pdf](NLP_TextSummarization.pdf).
+
+## Survey of Various AI Chatbots Based on Technology Used (2020)
+
+S. Singh and H. K. Thakur, "Survey of Various AI Chatbots Based on Technology Used," 2020 8th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO), Noida, India, 2020, pp. 1074-1079, [doi](https://doi-org.proxy1.ncu.edu/10.1109/ICRITO48877.2020.9197943). [ChatBots.pdf]
+
+## The survey: Text generation models in deep learning
+
+Touseef Iqbala, Shaima Qureshi (2020). The survey: Text generation models in deep learning. Journal of King Saud University - Computer and Information Sciences. Available online 13 April 2020. [doi](https://doi-org.proxy1.ncu.edu/10.1016/j.jksuci.2020.04.001). [TextGeneration.pdf](TextGeneration.pdf)
+
+## Analysis of Personality Traits using Natural Language Processing and Deep Learning (2020)
+
+Pradhan, T., Bhansali, R., Chandnani, D., & Pangaonkar, A. (2020). Analysis of Personality Traits using Natural Language Processing and Deep Learning. 2020 Second International Conference on Inventive Research in Computing Applications (ICIRCA), Inventive Research in Computing Applications (ICIRCA), 2020 Second International Conference On, 457–461. [doi](https://doi-org.proxy1.ncu.edu/10.1109/ICIRCA48905.2020.9183090). [PersonalityTraits.pdf](PersonalityTraits.pdf).
