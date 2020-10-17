@@ -6,6 +6,12 @@ Abdullah, S. S., Rahaman, M. S., & Rahman, M. S. (2013). Analysis of stock marke
 
 > The objective of this study is to extract fundamental information from relevant news sources and use them to analyze or sometimes forecast the stock market from the common investor’s viewpoint.
 
+Sounds financial decisions in the market require both technical and fundamental data.  Technical data is easy to derive from statistical models, however fundamental information is generally locked within unstructured free form text.  The authors describe a system for parsing this information from news articles and similar sources.
+
+While their system is effective at tokenizing and classifying, there are many challenges that come from new data formats.  For instance, two journalists could have unique stylistic voices and this leads to custom extensions per source.  However, this critism is more so asking for additional functionality with broader capabilities.  The researchers set out on a narrow scope, and they have an architecture that could potentially handle those additional scenarios given more time and resources.
+
+![market_parser.png](market_parser.png)
+
 ## We Know Where You Are Tweeting From (2014)
 
 A. Alsudais, G. Leroy and A. Corso, "We Know Where You Are Tweeting From: Assigning a Type of Place to Tweets Using Natural Language Processing and Random Forests," 2014 IEEE International Congress on Big Data, Anchorage, AK, 2014, pp. 594-600, [DOI](https://doi-org.proxy1.ncu.edu/10.1109/BigData.Congress.2014.91). [KnowWhereYouTweetFrom.pdf](KnowWhereYouTweetFrom.pdf)
@@ -52,6 +58,12 @@ Fu, Z. (2019). An Introduction of Deep Learning Based Word Representation Applie
 ## A Survey on NLP based Text Summarization for Summarizing Product Reviews (2020)
 
 R. Boorugu and G. Ramesh, "A Survey on NLP based Text Summarization for Summarizing Product Reviews," 2020 Second International Conference on Inventive Research in Computing Applications (ICIRCA), Coimbatore, India, 2020, pp. 352-356, [doi](https://doi-org.proxy1.ncu.edu/10.1109/ICIRCA48905.2020.9183355). [NLP_TextSummarization.pdf](NLP_TextSummarization.pdf).
+
+It can be challenging to read lengthy product reviews or get the gist of verbose multi-document corpuses.  Researchers are assessing strategies for either _extracting text_ or _abstracting text_ to provide summaries for the reader.  Identifying and extracting key phrases is a complex task, but is well studied.  The more advanced problem is coming up with an abstract, which reframes and condenses the ideas of the information as whole.
+
+The authors focus the paper on a literature review of various strategies, such as seq2seq and word embedding algorithms that appear in many recurrent neural networks (RNN) solutions.  Other approaches were more unique like building a DAG with weighted edges equal to the _Cohesion Factor_.  Then a cost function maximizes the selected sentenses according to their total weights.
+
+![summay.png](summay.png)
 
 ## Survey of Various AI Chatbots Based on Technology Used (2020)
 
