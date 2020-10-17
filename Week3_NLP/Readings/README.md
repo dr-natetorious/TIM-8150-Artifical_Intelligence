@@ -12,6 +12,19 @@ A. Alsudais, G. Leroy and A. Corso, "We Know Where You Are Tweeting From: Assign
 
 > This paper showcases the use of the Random Forest AI technique to identify six location categories Tweeter users like eating out, hotels, nightlife, shopping, and shows.
 
+In 2014, there were over a billion tweets per day and that volume has only increased.  This presents a wealth of potential knowledge, though in a highly unstructured manner.  The authors collected tweets and then attempted to classify them into various categories like food or nightlife.  While building the model additional features such as metadata about businesses tagged and the time of day provided additional hints at the right answer.  All of these facts were then sent into a random forest.
+
+Choosing the textual words to include in the NLP model followed this process:
+
+1. Split the data set as 60/40 (train/test)
+2. Group the messages into pre-labeled buckets
+3. Identity the top-10 most common unique words for that bucket
+4. These became the vocabulary to train
+
+One point of critism is that the NLP aspect does not appear to provide any real-value. According to their results section (pg. 598)-- the _Entity Description (ED)_ provides ~80% accuracy on its own.  Meanwhile, NLP on its own was right only 50% of the time, granted there are roughly six categories.  Including the metadata (e.g., time of day) decreases the accuracy, and that might suggest that overfitting is taking place.
+
+![tweet_results.png](tweet_results.png)
+
 ## An analysis of the use of NLP systems in business (1997)
 
 Sidhu, J., & Hinde, C. J. (1997). An analysis of the use of natural language processing systems in business. Behaviour & Information Technology, 16(3), 145–156. [DOI](https://doi-org.proxy1.ncu.edu/10.1080/014492997119879). [NLP_in_Business.pdf](NLP_in_Business.pdf).
@@ -23,6 +36,12 @@ Sidhu, J., & Hinde, C. J. (1997). An analysis of the use of natural language pro
 K. Sintoris and K. Vergidis, "Extracting Business Process Models Using Natural Language Processing (NLP) Techniques," 2017 IEEE 19th Conference on Business Informatics (CBI), Thessaloniki, 2017, pp. 135-139, [DOI](https://doi-org.proxy1.ncu.edu/10.1109/CBI.2017.41). [ExtractBusinessProcess.pdf](ExtractBusinessProcess.pdf)
 
 > This paper discusses how Natural Language Processing can be used to retrieve the components of a business process model from documents.
+
+Business process documentation is full of juicy golden nuggets, however, extracting that information is highly complex.  The authors give a preview of a system they are building that can derive a semantic model that represents these processes.
+
+They accomplish this through a series of transformation steps that (1) perform sentence level analysis; (2) followed by text level analysis.  This enables them to build a world model that understands the specifics of the organizaiton.
+
+![extraction.png](extraction.png)
 
 ## An Introduction of Deep Learning Based Word Representation Applied to Natural Language Processing (2019)
 
