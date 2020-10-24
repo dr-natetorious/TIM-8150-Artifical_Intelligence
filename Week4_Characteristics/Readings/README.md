@@ -68,7 +68,7 @@ Many real-world datasets have majority and minority classes within them, such as
 
 ### What strategies exist for addressing these challenges
 
-![imbalanced.pdf](imbalanced.pdf)
+![imbalanced.png](imbalanced.png)
 
 ### What challenges exist with sampling
 
