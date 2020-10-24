@@ -22,6 +22,8 @@ F. Samie, L. Bauer and J. Henkel, "From Cloud Down to Things: An Overview of Mac
 
 > This paper discusses the use of machine language in Internet of Things in a ranger of domains from embedded to the cloud.
 
+The authors perform an detailed survey of uses cases for IoT and machine learning, then deep dive into algorithms and strategies that can address those scenarios.  This is a reference for a broad collection of ideas.
+
 ## Sentiment analysis using machine learning for business intelligence (2017)
 
 S. Chaturvedi, V. Mishra and N. Mishra, "Sentiment analysis using machine learning for business intelligence," 2017 IEEE International Conference on Power, Control, Signals and Instrumentation Engineering (ICPCSI), Chennai, 2017, pp. 2162-2166, [DOI](https://doi-org.proxy1.ncu.edu/10.1109/ICPCSI.2017.8392100). [SentimentAnalysis.pdf](SentimentAnalysis.pdf).
