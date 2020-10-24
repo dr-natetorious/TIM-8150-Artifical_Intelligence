@@ -6,6 +6,14 @@ Andrade, L., Prost-Boucle, A., & Petrot, F. (2018). Overview of the state of the
 
 > This paper provides an overview of the application of neural network architectures in embedded applications.
 
+Many cyber-physical systems (CPS) need artificial intelligence capabilites, however their embedded form typically has minimal resources.  Without significant resources, e.g. compute and memory, it can be challenging to effectively run machine learning inference calculations.  For example many NLP models can contain millions of parameters and this leads to emense energy consumption.
+
+The state-of-the-art approaches seek to reduce the overhead with different encodings, such as removing floating point multiplication.  [Quantization-Aware Training](https://blog.tensorflow.org/2020/04/quantization-aware-training-with-tensorflow-model-optimization-toolkit.html) addresses this point by bucketing value ranges.  This reduces the precision, but this might be acceptable for many real world scenarios.  Others are using ternary weights (-1, 0, 1) to represent the activations and rely solely on addition/subtraction.  While researchers can train models on float16-dtypes, its still out of reach for most embedded systems to participate in training. 
+
+![quant_image](quant_image)
+
+Another emerging pattern is `Processing-In-Memory (PIM)`, by moving the computation directly on the memory instead of fetching it back to the central processing unit.  This is an alternative architecture to the standard Von Neuman model, following closer to the "bring the compute to the data" mantra found in big data technologies.  Others are also looking for compression strategies to reduce the physical model size. 
+
 ## Explaining Explanations: An Overview of Interpretability of Machine Learning (2018)
 
 L. H. Gilpin, D. Bau, B. Z. Yuan, A. Bajwa, M. Specter and L. Kagal, "Explaining Explanations: An Overview of Interpretability of Machine Learning," 2018 IEEE 5th International Conference on Data Science and Advanced Analytics (DSAA), Turin, Italy, 2018, pp. 80-89, [DOI](https://doi-org.proxy1.ncu.edu/10.1109/DSAA.2018.00018). [ExplainingExplainations.pdf](ExplainingExplainations.pdf).
@@ -43,6 +51,8 @@ S. Chaturvedi, V. Mishra and N. Mishra, "Sentiment analysis using machine learni
 R. C. Paffenroth and C. Zhou, "Modern Machine Learning for Cyber-Defense and Distributed Denial-of-Service Attacks," in IEEE Engineering Management Review, vol. 47, no. 4, pp. 80-85, 1 Fourthquarter,Dec. 2019, [DOI](https://doi-org.proxy1.ncu.edu/10.1109/EMR.2019.2950183). [ML_for_DDos.pdf](ML_for_DDos.pdf).
 
 > This article discusses methods for detecting and mitigating DoS attacks with a focus on techniques that leverage machine learning algorithms.
+
+The authors go into way too much detail about DDoS, and not enough on the actual machine learning process.  Basically, they propose a system that uses an "S-value" to determine a ratio of open `SYN` packets over time.  This feeds into an anomlys classification system that "hotdog v not hotdog" determines if a given host is likely underattack.
 
 ## Machine Learning for Classification of Economic Recessions (2019)
 
