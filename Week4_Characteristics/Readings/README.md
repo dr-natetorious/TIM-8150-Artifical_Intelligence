@@ -12,6 +12,14 @@ L. H. Gilpin, D. Bau, B. Z. Yuan, A. Bajwa, M. Specter and L. Kagal, "Explaining
 
 > Recent work on explanatory artificial intelligence is presented in this paper. The aim is to develop technology that can provide explanations of the decisions made by AI.
 
+There are many open problems within `Explainable AI (XAI)`, which asks how blackbox NN derive at decisions.  Without a clear explaination there are risks to adoption of machine learning in some mission critical applications.  The European Union now requires citizens have the _Right to an explaination_ for any algorithm that makes a significant decision on their behalf.  For instance, prison sentencing systems might be inheritently bias and there needs to be mechanisms to elevate those biases.
+
+The authors state that its important to frame explaination problems as "why" and "why-should" questions, and then rate the quality of the answer based on the need of _follow up why_ questions.  Producing these questions typically falls into buckets:
+
+- *Attention Networks*, similar to [NLP Transformers](../../Week3_NLP/Videos), measure the influence of features against one-another
+- *Disentanglement Representations*, similar to Principal Component Analysis (PCA), examines the relationship of feature correlations
+- *Generative Explanations*, use NLP to emit a "because" statement
+
 ## A Review of Artificial Intelligence Methods for Data Science and Data Analytics: Applications and Research Challenges (2018)
 
 Please see notes from [Week 1](../Week1_Describe/Readings); those comments are not repeated here.
@@ -55,3 +63,17 @@ Hang, W., & Banks, T. (2019). Machine learning applied to pack classification. I
 Kaur, H., Pannu, H. S., & Malhi, A. K. (2019). A Systematic Review on Imbalanced Data Challenges in Machine Learning: Applications and Solutions. ACM Computing Surveys, 52(4), 1–36. [DOI](https://doi-org.proxy1.ncu.edu/10.1145/3343440). [ImbalancedDataChallenges.pdf](ImbalancedDataChallenges.pdf).
 
 > This article discusses a comparative analysis of the various issues relating to data used in machine learning.
+
+Many real-world datasets have majority and minority classes within them, such as 90% men versus 10% women. These situations lead to prediction skews that favor the majority case disporptionately, resulting in lower accuracy in the minority group.
+
+### What strategies exist for addressing these challenges
+
+![imbalanced.pdf](imbalanced.pdf)
+
+### What challenges exist with sampling
+
+![sampling_challenges.png](sampling_challenges.png)
+
+### What learning algorithms are available
+
+![learning_algos.png](learning_algos.png)
