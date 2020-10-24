@@ -40,6 +40,8 @@ B. Jackson and M. Rege, "Machine Learning for Classification of Economic Recessi
 
 > This paper describes machine learning methods for the determination of business cycle turning points.
 
+The authors compare the accuracy of both K-NN (Nearest neighbors) and NN (Neural network) to classify business cycles, which are either expansive or regressive in nature.  They also use a `Kalman Filter` to smooth out noise within the time series data.  One of the challenges they needed to overcome is `comovement` as that causes inter-relations between the variables and skews results.  Using `Dynamic Factor Markov-Switching` addresses this issue by modeling volatility more efficiently than standard models.
+
 ## Machine Learning for Product Classification (2019)
 
 Hang, W., & Banks, T. (2019). Machine learning applied to pack classification. International Journal of Market Research, 61(6), 601–620. [DOI](https://doi-org.proxy1.ncu.edu/10.1177/1470785319841217). [PackClassification.pdf](PackClassification.pdf).
