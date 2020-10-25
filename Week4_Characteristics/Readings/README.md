@@ -8,11 +8,11 @@ Andrade, L., Prost-Boucle, A., & Petrot, F. (2018). Overview of the state of the
 
 Many cyber-physical systems (CPS) need artificial intelligence capabilites, however their embedded form typically has minimal resources.  Without significant resources, e.g. compute and memory, it can be challenging to effectively run machine learning inference calculations.  For example many NLP models can contain millions of parameters and this leads to emense energy consumption.
 
-The state-of-the-art approaches seek to reduce the overhead with different encodings, such as removing floating point multiplication.  [Quantization-Aware Training](https://blog.tensorflow.org/2020/04/quantization-aware-training-with-tensorflow-model-optimization-toolkit.html) addresses this point by bucketing value ranges.  This reduces the precision, but this might be acceptable for many real world scenarios.  Others are using ternary weights (-1, 0, 1) to represent the activations and rely solely on addition/subtraction.  While researchers can train models on float16-dtypes, its still out of reach for most embedded systems to participate in training. 
+The state-of-the-art approaches seek to reduce the overhead with different encodings, such as removing floating point multiplication.  [Quantization-Aware Training](https://blog.tensorflow.org/2020/04/quantization-aware-training-with-tensorflow-model-optimization-toolkit.html) addresses this point by bucketing value ranges.  This reduces the precision, but this might be acceptable for many real world scenarios.  Others are using ternary weights (-1, 0, 1) to represent the activations and rely solely on addition/subtraction.  While researchers can train models on float16-dtypes, its still out of reach for most embedded systems to participate in training.
 
 ![quant_image](quant_image)
 
-Another emerging pattern is `Processing-In-Memory (PIM)`, by moving the computation directly on the memory instead of fetching it back to the central processing unit.  This is an alternative architecture to the standard Von Neuman model, following closer to the "bring the compute to the data" mantra found in big data technologies.  Others are also looking for compression strategies to reduce the physical model size. 
+Another emerging pattern is `Processing-In-Memory (PIM)`, by moving the computation directly on the memory instead of fetching it back to the central processing unit.  This is an alternative architecture to the standard Von Neuman model, following closer to the "bring the compute to the data" mantra found in big data technologies.  Others are also looking for compression strategies to reduce the physical model size.
 
 ## Explaining Explanations: An Overview of Interpretability of Machine Learning (2018)
 
