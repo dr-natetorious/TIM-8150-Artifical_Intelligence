@@ -78,6 +78,27 @@ Schleer, P., Drobinsky, S., de la Fuente, M., & Radermacher, K. (2019). Toward v
 
 > This paper describes the standardization of robotic device profiles that describe essential functional characteristics of cooperative robotic systems.
 
+Human surgeons can make decisions in complex noisy environments, however their capacity decreases porportional to the degrees of freedom (DOF).  The authors use the analogy of riding a bike (3DOF) versus a unicycle (5DOF), which is exponentially more difficult.  Meanwhile, machines are superior at the inverse scenario, never tiring and able to operate in highly dimensional space.  
+
+Instead of asking can the human replace the machine, or vice versa, a better question is to examine the symbiotic relationship of a partnership. The doctor can manage the operation by giving instructions to the machines that execute those commands flawlessly.
+
+> This plurality of surgical robots along with their narrow application felds infuences cost and usability negatively and, consequently, prevents their widespread adoption. Therefore, a modular system design seems to be crucial regarding a versatile adaptation of workspaces, number of DOF, tools for the specifc boundary conditions and needs for each specifc application [10, 20, 21]. Furthermore, according to Spath et al., "fexible automation, rather than the highest degree of automation, is the aim" ([22],
+p. 594 (34.4.1)).
+
+### What are the characteristics of a decent AI-partnership
+
+> However, associated potential risks, such as overreliance, dependency on the system and retention of skills, should be considered and analyzed carefully [28, 29, 31, 32]. Abbink et al. [28] propose four guidelines for human–automation interaction: Firstly, the human operator should always remain in control, while smooth shifts in the authority allocation can be experienced or initiated. Secondly, continuous feedback should be available such that limitations of the automation and the functionalities are evident to the operator. Thirdly, there should be a continuous interaction with the automation, and fnally, benefts from either increased performance or reduced workload should exist.
+
+These opinions align with the concerns of Heer's Agency plus automation paper above.
+
+### What is the influence of communication channels
+
+> In summary, a variety of communication channels have been used in surgical robotic applications. The communication channels can be used in conjunction with the classifcation of cooperative features presented (Table 2) for a systematic description of a particular cooperative robotic system. In
+particular, the haptic information channel should be further disseminated as it poses many advantages. Furthermore, different classes of synergistic robotic systems exist: handheld, hands-on and telemanipulated devices. Each of the classes mentioned can inherently ofer only certain types of the
+cooperative features presented.
+
+![table2.png](table2.png)
+
 ## Analysis of the impact of artificial intelligence and robotics on human labour (2019)
 
 Fanafuthi, M. M., Nyawo, J., & Mashau, P. (2019). Analysis of the impact of artificial intelligence and robotics on human labour. Gender & Behaviour, 17(3), 13877–13891. [EBSCO](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=ofs&AN=139753131&site=eds-live). [Robotics_HumanLabour.pdf](Robotics_HumanLabour.pdf).
