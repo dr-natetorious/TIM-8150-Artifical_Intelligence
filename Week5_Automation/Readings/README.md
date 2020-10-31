@@ -64,6 +64,16 @@ W. Tong, A. Hussain, W. X. Bo and S. Maharjan, "Artificial Intelligence for Vehi
 
 > A comprehensive review of AI research in the area vehicle-to-everything systems is presented in this paper as well as some of the challenges that need to be addressed to realize the full potential of this new technology.
 
+### Was this topic previously covered?
+
+A deep-dive into the role of V2X and smart cities is covered in:
+
+- [TIM-7010 Mobile & Networks Week 7](https://github.com/dr-natetorious/TIM-7010-Computer_Networks_and_Mobile_Computing/blob/master/Section_4_Application/Week7_Darpa_SmartCity/) Interactions of vehicle communication networks
+- [TIM-8120_Distributed_Systems Week 3](https://github.com/dr-natetorious/TIM-8120_Distributed_Systems/blob/master/Week3_SharedResource_CommunicationMechanisms/Readings/ServiceDiscovery/VANET/README.md) Vehicular Ad-Hoc Networks (VANET)
+- [TIM-8110-Programming_Languages_and_Algorithms Week 8](https://github.com/dr-natetorious/TIM-8110-Programming_Languages_and_Algorithms/tree/master/Week8_Experiment) Using DeepRacer to understand autonomous vehicles
+
+![v2x.png](v2x.png)
+
 ## A service-oriented simulation integration platform for hierarchical manufacturing planning and control (2016)
 
 Xu, D., Nageshwaraniyer, S. S., & Son, Y.-J. (2016). A service-oriented simulation integration platform for hierarchical manufacturing planning and control. International Journal of Production Research, 54(23), 7212–7230. [DOI](https://doi-org.proxy1.ncu.edu/10.1080/00207543.2016.1221535). [HierarchicalManufacturing.pdf](HierarchicalManufacturing.pdf).
