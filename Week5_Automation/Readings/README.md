@@ -64,7 +64,7 @@ W. Tong, A. Hussain, W. X. Bo and S. Maharjan, "Artificial Intelligence for Vehi
 
 > A comprehensive review of AI research in the area vehicle-to-everything systems is presented in this paper as well as some of the challenges that need to be addressed to realize the full potential of this new technology.
 
-### Was this topic previously covered?
+### Was this topic previously covered
 
 A deep-dive into the role of V2X and smart cities is covered in:
 
