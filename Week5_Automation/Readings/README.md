@@ -30,6 +30,16 @@ MAY, M. T. J. (2019). Industrial Age Capacity at Information Age Speed. Strategi
 
 > This article examines the potential for AI in defense logistics and the DOD's relationship with industry to meet the logistical demands of the modern battlespace.
 
+The United States has been the world super power by outspending other countries in terms of scientific innovation and military force.  However, as the world continues to evolve these investments are unlikely to soley maintain that position.  For instance, China increases has increased funding by 18% (2018 = 409B/yr) annually for 20 years, versus the US adds 4% (498B/yr).
+
+Another set of challenges exist that keeping large military forces on constant vigal is not sustainable.  Consider the middle east conflict, where the US "won" but not before spending trillions of dollars with debate-able results.  Continuing to scale that strategy to globally should eventually deplete the country by spreading itself too thin.
+
+Instead, the authors propose that logistical operations transition to human augmentation processes, and those technologies handle this aspect.  This frees up the humans to focus on more value-differetiation such as leading the robotic strike, versus boots on the ground.
+
+> This world in arms is not spending money alone. It is spending the sweat of its laborers, the genius of its scientists, the hopes of its children. The cost of one modern heavy bomber is this: a modern
+brick school in more than 30 cities. It is two electric power plants, each serving a town of 60,000 population. It is two fine, fully equipped hospitals. It is some 50 miles of concrete highway. We
+pay for a single fighter plane with a half million bushels of wheat. We pay for a single destroyer with new homes that could have housed more than 8,000 people. This, I repeat, is the best way of life to be found on the road the world has been taking. (President Dwight D. Eisenhower, 1961)
+
 ## Amazon Robotics (2020)
 
 Amazon Robotics. (2020) Our Vision. [https://www.amazonrobotics.com](https://www.amazonrobotics.com).
@@ -73,3 +83,18 @@ Schleer, P., Drobinsky, S., de la Fuente, M., & Radermacher, K. (2019). Toward v
 Fanafuthi, M. M., Nyawo, J., & Mashau, P. (2019). Analysis of the impact of artificial intelligence and robotics on human labour. Gender & Behaviour, 17(3), 13877–13891. [EBSCO](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=ofs&AN=139753131&site=eds-live). [Robotics_HumanLabour.pdf](Robotics_HumanLabour.pdf).
 
 > This paper is a report on some of the work achieved on the topic of automation, in order to answer the question of whether artificial intelligence and robotics will replace human labour.
+
+The role of humans in mechanical operations, such as manufacturing, continues to dwindle because A.I. systems are able to perform these tasks cheaper and with greater consistency.  As the demand for these people decreases, so does the economic benefit (e.g., expected compensation).  Without the ability to make an "honest living" a massive displacement will force those low-skilled workers into different jobs in other industries.
+
+> Citing the World Economic Forum 2016, WebberYoungman (2017) highlights the 10 skills that humans need to thrive in the fourth industrial revolution, based on the use of cyber-physical systems. They are:
+
+- Complex problem-solving
+- Critical thinking
+- Creativity
+- People management
+- Coordinating with others (group work activities)
+- Emotional intelligence
+- Judgement and decision-making
+- Service orientation
+- Negotiating
+- Cognitive flexibility.
