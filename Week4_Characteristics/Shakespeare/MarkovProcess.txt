@@ -1,0 +1,7 @@
+title Building Markov Decision Process
+
+Caller->Input File:Provides text
+Input File->Tokenizer:Split Words
+Tokenizer->N-grams:Produce word phrases
+N-grams->Frequency Map:Group by occures
+Caller<--Frequency Map:returns map(ngram) => list (next-ngram)
