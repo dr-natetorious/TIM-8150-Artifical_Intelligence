@@ -103,8 +103,7 @@ These opinions align with the concerns of Heer's Agency plus automation paper ab
 
 ### What is the influence of communication channels
 
-> In summary, a variety of communication channels have been used in surgical robotic applications. The communication channels can be used in conjunction with the classifcation of cooperative features presented (Table 2) for a systematic description of a particular cooperative robotic system. In
-particular, the haptic information channel should be further disseminated as it poses many advantages. Furthermore, different classes of synergistic robotic systems exist: handheld, hands-on and telemanipulated devices. Each of the classes mentioned can inherently ofer only certain types of the
+> In summary, a variety of communication channels have been used in surgical robotic applications. The communication channels can be used in conjunction with the classifcation of cooperative features presented (Table 2) for a systematic description of a particular cooperative robotic system. In particular, the haptic information channel should be further disseminated as it poses many advantages. Furthermore, different classes of synergistic robotic systems exist: handheld, hands-on and telemanipulated devices. Each of the classes mentioned can inherently ofer only certain types of the
 cooperative features presented.
 
 ![table2.png](table2.png)
