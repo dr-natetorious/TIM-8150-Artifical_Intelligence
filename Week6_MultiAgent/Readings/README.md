@@ -4,7 +4,23 @@
 
 Hjorth A, Head B, Brady C, Wilensky U. LevelSpace: A NetLogo Extension for Multi-Level Agent-Based Modeling. Journal of Artificial Societies & Social Simulation. 2020;23(1):1-24. Accessed November 7, 2020. [EBSCOHost](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=edo&AN=142602866&site=eds-live). [levelspace.pdf](levelspace.pdf).
 
-One of the challenges with cellular automata comes from constraining the model into 2-D (micro decisions + macro aggregators).  However, many real-world problems are more complex that have K-dimensions.  For instance, two of those cells might influence a third.  The authors provide an example of (1) groups of houses, (2) people moving in/out, and (3) who chooses to be their neighbors (eg., loud college kids discourage families).
+## What is the issue with CA modeling
+
+One of the challenges with cellular automata comes from constraining the model into 2-D (micro decisions + macro aggregators).  However, many real-world problems are more complex that have K-dimensions.  For instance, two of those cells might influence a third.  
+
+The authors provide an analogy of (1) groups of vacant houses, (2) people wanting to moving in/out, and (3) influencing those decisions by who lives next door (eg., loud college kids discourage families).
+
+Correctly modeling these systems needs multi-level aggregation that simulates irrelevant details and enables fine-grained influence over critical decisisions-- ultimately better aligning with the problem's requirements.
+
+## Uses of Multi-Level Agent-Based Modeling
+
+Recently, there has been an increasing interest in Multi-Level Agent-Based Modeling, or ML-ABM. Morvan (2012) provides a survey of applications, methods, and approaches for the construction of ML-ABMs[1]. In this survey, Morvan describes three types of problems that ML-ABM languages or packages are typically used to address:
+
+- Coupling of heterogeneous models – Most systems do not exist in isolation and, thus, there is sometimes a need to simulate multiple interacting systems. Furthermore, the forms that the models of the interacting systems take may differ wildly. One example of such a coupling that we will discuss throughout the paper is a 2-model system in which we couple a climate change model with a model showing an ecological system. The timescale for dynamics within an ecological model might be measured in hours or days, whereas in a climate model it could be in years, decades, or centuries. Furthermore, the models must be able to have significantly different topologies, components, and types of interactions. Thus, one needs to be able to couple diverse models such that the needs and ontology of each model are respected.
+
+- (Dynamic) adaptation of level of detail – Computationally modeling a system at fine-grained levels of detail can often lead to performance problems. To overcome this, one may wish to model the system at a high-level, and simulate a low-level view at particular locations or when particular events occur, and only stay there for the duration of those events.
+
+- Cross-level interaction – Systems often consist of multiple levels or scales of interactions. There is sometimes a need for explicit representations of interactions between different scales in a system.
 
 ## Biologically driven artificial intelligence (2019)
 
