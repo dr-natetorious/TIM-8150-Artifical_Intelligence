@@ -10,11 +10,32 @@ Hole KJ, Ahmad S. Biologically Driven Artificial Intelligence. Computer. 2019;52
 
 > This paper discusses the differences between human and artificial intelligence and the effort that it will take the latter to catch the former.
 
+### Why are humans still superior to machines
+
+Even though it may be theoretically possible to create superior AI systems that are not biologically inspired, we are far from the goal of creating AI at the level of human intelligence. Most AI learning algorithms, particularly deep learning algorithms, are greedy, brittle, rigid, and opaque. The algorithms are:
+
+- greedy because they demand big data sets to learn
+- brittle because they frequently fail when confronted with a mildly different scenario than that in the training set
+- rigid because they cannot keep adapting after initial training
+- opaque because the internal representations make it challenging to interpret their decisions.
+
+Although these shortcomings are all serious, the core problem is that all AI systems are shallow because they lack abstract reasoning abilities and possess no common sense about the world.
+
+### How has our understanding of biology evolved
+
+The brain was the original inspiration for ANNs, but this is no longer the case; the knowledge behind the ANNs' brain cells is outdated. We now know that biological neurons have multiple physical states and biological networks have far more sophisticated functionality than those in ANNs.
+
 ## Application of Cellular Automates in Some Models of AI (2018)
 
 O. S. Makarenko and V. M. Osaulenko, "Application of Cellular Automates in Some Models of Artificial Intelligence," 2018 IEEE First International Conference on System Analysis & Intelligent Computing (SAIC), Kiev, 2018, pp. 1-4, doi: 10.1109/SAIC.2018.8516837. [CellularAutomates.pdf](CellularAutomates.pdf).
 
 > The modeling of the human brain by using cellular automata concepts is discussed in this paper. An interesting aspect of the presentation is the consideration of scaling from individual entities to large-scale population interactions.
+
+Modeling real-world systems is complex due to the scale and variability of interactions.  The authors propose a "smart cube approach" that uses _hierarchical series of discrete systems to build up macro systems_.  This solution is showing a lot of promise in physics and mathemathical problems and is likely to continue being useful in other areas.
+
+> Speaking of elementary particle physics, in 1965, in his work, Feynman put forward the hypothesis that "ultimately, physics will not need mathematical expressions, at the end of the machinery will be discovered and the laws will turn out to be simple as a board for checkers with all its apparent complexity"
+
+![smartcube.png](smartcube.png)
 
 ## Smart city: Evaluation of intelligent agents (2018)
 
