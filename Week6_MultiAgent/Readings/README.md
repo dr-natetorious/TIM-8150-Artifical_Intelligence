@@ -4,6 +4,8 @@
 
 Hjorth A, Head B, Brady C, Wilensky U. LevelSpace: A NetLogo Extension for Multi-Level Agent-Based Modeling. Journal of Artificial Societies & Social Simulation. 2020;23(1):1-24. Accessed November 7, 2020. [EBSCOHost](https://search-ebscohost-com.proxy1.ncu.edu/login.aspx?direct=true&db=edo&AN=142602866&site=eds-live). [levelspace.pdf](levelspace.pdf).
 
+One of the challenges with cellular automata comes from constraining the model into 2-D (micro decisions + macro aggregators).  However, many real-world problems are more complex that have K-dimensions.  For instance, two of those cells might influence a third.  The authors provide an example of (1) groups of houses, (2) people moving in/out, and (3) who chooses to be their neighbors (eg., loud college kids discourage families).
+
 ## Biologically driven artificial intelligence (2019)
 
 Hole KJ, Ahmad S. Biologically Driven Artificial Intelligence. Computer. 2019;52(8):72-75. doi:10.1109/MC.2019.2917455. [BioDrivenAI.pdf](BioDrivenAI.pdf)
@@ -48,6 +50,20 @@ Fu, E.S., Fang, Y., & Horn, B.K.P. (2018) Smart city: Evaluation of intelligent 
 Wildberger AM. Introduction & overview of “artificial life” evolving intelligent agents for modeling & simulation. Proceedings Winter Simulation Conference, Simulation Conference, 1996 Proceedings Winter. January 1996:161-168. doi:10.1109/WSC.1996.873274. [EvolvingAgents.pdf](EvolvingAgents.pdf).
 
 > This paper introduces genetic algorithms and cellular automata following a tutorial style approach.
+
+The author critizes A.I. systems by describing them as simplistic event simulation systems.  He then continues to describe two strategies called `Genetic Algorithms` and `Cellular Automata` -- which are two effective solutions to scenario modeling.  There is also discussions about particle SWARM as a method for clustering multi-agents.
+
+### What are genetic algorithms
+
+These appear in other sections of this program and are essentially, K-state classifiers (e.g., `{true, false, wildcard}`) that model a scenario.  Each random instance runs through a simulation to receive a score, and is then sorted descending.
+
+The top X% of instances randomly breed (swap classifier values) and another iteration repeats.  After some number of rounds the remaining items will contain the same critical attribute flags, resulting in _an optimal_ solution.  
+
+It might be appropriate to introduce random mutations to increase the search space across the `K^L` permutations (K=states, L=length).
+
+### What are cellular automata
+
+These are discussed in other reads for the week, but briefly, they are systems that use local rules to mainain discrete systems.  Those units coalesce into larger subsets allowing for the simulation of more complex interations.
 
 ## Multi-level agent-based modeling (2013)
 
