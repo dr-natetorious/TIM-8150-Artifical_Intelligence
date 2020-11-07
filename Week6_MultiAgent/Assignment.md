@@ -1,6 +1,6 @@
 # Appraise the Current Status of Research on Intelligent Agents and their Application to Businesses
 
-For this assignment, you must write an academic paper that analyzes the current status of research and practice on intelligent agents’ technologies.
+For this assignment, you must write an academic paper that analyzes the current status of research and practice on intelligent agents' technologies.
 
 ## Topic Details
 

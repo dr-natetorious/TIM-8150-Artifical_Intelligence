@@ -61,6 +61,14 @@ Fu, E.S., Fang, Y., & Horn, B.K.P. (2018) Smart city: Evaluation of intelligent 
 
 > This paper discusses the characteristics of intelligent agents and the software the implements them and how it differs from other AI technologies.
 
+There are five dimensions of agent intelligence:
+
+- Autonomy
+- Continual Operation
+- Personality
+- Collaboration
+- Adaptability
+
 ## Introduction & overview of "artificial life" evolving intelligent agents for modeling & simulation (1996)
 
 Wildberger AM. Introduction & overview of “artificial life” evolving intelligent agents for modeling & simulation. Proceedings Winter Simulation Conference, Simulation Conference, 1996 Proceedings Winter. January 1996:161-168. doi:10.1109/WSC.1996.873274. [EvolvingAgents.pdf](EvolvingAgents.pdf).
