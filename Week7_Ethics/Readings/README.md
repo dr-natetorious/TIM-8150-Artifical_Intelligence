@@ -41,3 +41,13 @@ Giuffrida, I., Lederer, F., & Vermeys, N. (2018). A Legal Perspective on the Tri
 Information Accountability Foundation (2020). [WebSite](https://informationaccountability.org/publications/).
 
 > This website is a global information policy think tank that works with regulatory authorities, policymakers, business leaders, civil society, and other key stakeholders around the world to help frame and advance data protection law and practice through accountability-based information governance.
+
+## OECD Principles of Ethical AI (2019)
+
+Council on Artificial Intelligence (2019). OECD Principles of Ethical AI. Recommendation of the Council on Artificial Intelligence. [OECD.org](https://www.oecd.org/legal/legal-instruments.htm). [OECD-LEGAL-0449-en.pdf](OECD-LEGAL-0449-en.pdf).
+
+## Robots and AI at work: the prospects for singularity (2018)
+
+Upchurch, M. (2018). Robots and AI at work: the prospects for singularity. New Technology, Work & Employment, 33(3), 205–218. doi:10.1111/ntwe.12124. [Robots_at_work.pdf](Robots_at_work.pdf).
+
+> This paper address emerging debates and controversies on the impact of robots and artificial intelligence on the world of work.
