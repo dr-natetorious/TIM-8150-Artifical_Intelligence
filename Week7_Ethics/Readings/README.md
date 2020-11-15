@@ -4,19 +4,29 @@
 
 Prives, L. (2018). AI for all: Drawing women into the artificial intelligence field. IEEE Women in Engineering Magazine, 12(2), 30-32. Dec. 2018, doi: 10.1109/MWIE.2018.2866890. [AI_for_all.pdf](AI_for_all.pdf).
 
-> This paper discusses the role of women and minority leaders in advancing AI in society.
+The article tells the story of `Benna Ammanatha`, who started the _Women for AI_ to promote the tech industry toward more diversity and inclusion.  
+
+> "We  put  a  lot  of  focus  on  computer  programming  right  now,  but  the  type  of  programming  we  do  today  will go away," predicts Ammanath. "With the  advances  in  voice  recognition,  you  might be able to just describe something to  an  AI  product,  and  it  will  program  for  you."  Before  we  get  there,  though,  Ammanath says, "I think it’s important for my kids to understand how Alexa and Siri actually work."
 
 ## Artificial Intelligence: Are We All Going to Be Unemployed (2018)
 
 A. Sandybayev, "Artificial Intelligence: Are We All Going to Be Unemployed?," 2018 Fifth HCT Information Technology Trends (ITT), Dubai, United Arab Emirates, 2018, pp. 23-27, doi: 10.1109/CTIT.2018.8649521. [AI_and_unemployment](AI_and_unemployment.pdf).
 
-> This paper discusses the role of AI in the workforce and its potential for replacing humans resulting in high unemployment levels.
+According to Pricewaterhouse Coopers, new technologies will cut specific job markets, perhaps by 20%.  However, those same technologies will grow the spectrum of new opportunities.  For instance, people that have a disability, learning impedement, or communication deficiency might no longer be handicapped.
+
+One of the challenges with this statement, is that the evolution of machines crosses mechanical to technical to feelings (see Feelings Paper Week1).  This means that during the initial phase, machines are doing to displace low-skilled worker numbers without addressing the job creation that follows in step 2.
 
 ## Artificial Intelligence in Politics: Establishing Ethics (2019)
 
 T. B. Kane, "Artificial Intelligence in Politics: Establishing Ethics," in IEEE Technology and Society Magazine, vol. 38, no. 1, pp. 72-80, March 2019, doi: 10.1109/MTS.2019.2894474. [AI_in_Politics.pdf](AI_in_Politics.pdf).
 
-> This paper discusses the use of AL tools in political campaigns and the influence they exert on election cycles. Issues of integrity and trust are also considered.
+The article describes the impact of social media advertising systems, like Facebook on election cycles.
+
+> A Facebook digital marketing strategy tends to be a `Segmentation-Targeting-Positioning`  (STP)  strategy  [4],  whereby,  a  marketing  team  will  use  tools  to  segment  a  population  into  different  groups  according  to  various  characteristics,  such as, for example male, single father, age under 30. Tar-geting  is  the  process  of  selecting  one  or  more  of  the  seg-ments  to  work  on.  Positioning  is  the  process  of  detailing  how members of the segment will be approached and what strategy will be used to bring the task to completion. Face-book  allows  business  customers  to  position  materials  directly  to  Facebook  users  while  they  are  active  in  their  social networks, and even while they are on other platforms.
+
+The authors continue with a focus on _Facebook for Politics_ (FfP) specifically noting:
+
+> The  approach  adopted  here  is  to  view  social  network-ing  activities  from  a  theatrical  perspective  and  to  explore  the  steps  of  FfP  activity  as  play-within-a-play  activity  from  an  advanced  black-box  AI  entity.  The  FfP  black-box  entity  is compared with the Searle black-box entity and allows us to  draw  distinctions  that  posit  FfP  as  an  artificial  person  with  co-opted  features  of  human  intelligence.  This  paper  concludes  that  powerful  sociotechnical  AI  tools  such  as  FfP cannot be understood as traditional standalone AI sys-tems  and  need  to  be  policed  as  would  any  human  being  who  had  interests  and  abilities  to  influence  the  voting  intentions  of  hundreds  of  thousands  of  voters  simultaneously.
 
 ## Automation, per se, is not job elimination: How artificial intelligence forwards cooperative human-machine coexistence (2017)
 
