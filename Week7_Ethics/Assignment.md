@@ -7,7 +7,8 @@ For this assignment, you must write a paper that discusses the ethical implicati
 You should provide examples of AI technologies in your paper that adhere to the previous considerations. For example:
 
 - how would an AI system that makes approval recommendations for loans fairly treat different social groups and individuals?
-- How will AI define the boundaries of a group and how will decide if a group is disadvantaged and special considerations should be made? How can the developers of AI systems ensure their systems are inclusive and “respectful” of diversity?
+- How will AI define the boundaries of a group and how will decide if a group is disadvantaged and special considerations should be made?
+- How can the developers of AI systems ensure their systems are inclusive and “respectful” of diversity?
 - How can potential conscious and unconscious human biases be eliminated from training sets and models so that predictions are reliable, and decisions are objective and fair?
 
 ## Requirements
