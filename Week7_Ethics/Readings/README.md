@@ -48,7 +48,7 @@ There are numerous examples of where human enhanced systems are superior to raw 
 
 ## EU Ethics Guidelines for Trustworthy AI (2019)
 
-European Union (8 April 2019). EU Ethics Guidelines for Trustworthy AI. [WebSite](https://ec.europa.eu/futurium/en/ai-alliance-consultation). [EthicsGuidelinesforTrustworthyAI](EthicsGuidelinesforTrustworthyAI.pdf).
+Lemonne, E. (2018, December 17). Ethics Guidelines for Trustworthy AI. Retrieved August 17, 2019, from FUTURIUM - European Commission website. [WebSite](https://ec.europa.eu/futurium/en/ai-alliance-consultation). [EthicsGuidelinesforTrustworthyAI](EthicsGuidelinesforTrustworthyAI.pdf).
 
 > The aim of the Guidelinesis to promote TrustworthyAI. TrustworthyAI has **three components**, which should be met  throughout  the  system's entire  life  cycle:(1) it  should  be **lawful**, complying withall applicable lawsandregulations(2) it should be **ethical**, ensuring adherence toethical principles and values and (3) it should be **robust**, both  from a technical and social perspectivesince, even  with  good  intentions, AI systems can cause unintentional harm. Each  component in itself is necessary but not sufficient for the achievement of TrustworthyAI. Ideally, all threecomponents  work in harmony and overlap in their operation. If, in practice, tensions arise between these components, society should endeavour to align them.
 
