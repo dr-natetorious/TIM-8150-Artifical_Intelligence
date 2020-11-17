@@ -103,9 +103,7 @@ Huang, M.-H., Rust, R., & Maksimovic, V. (2019). The feeling economy: Managing i
 
 Artificial intelligence has exploded across business processes and is quickly taking over mechanical and repetitive tasks (aka `Thinking Economy`).  More recently, systems are moving into the `Feelings Economy` and learning to `perform emotional and interpersonal tasks` as well.  While many people believe that jobs the focus on these soft-skills will be immute from displacement, the authors predict the opposite.  Using gov't data (O*NET by US Labor Dept) they highlight a growing trend across toward domination of machines.
 
-> Our analysis concludes that in the Feeling Economy, jobs will emphasize feeling tasks more, and workers will need to get more people-oriented, rather than more data-oriented, if they wish to leverage
-the benefits of thinking AI. Even for managerial jobs that have always had both people-focused tasks (i.e., communicating and coordinating with people), as well as thinking-focused tasks (i.e., analyzing data or information), our empirical evidence shows that the "soft" aspects of managerial jobs are becoming even more important and will need to be prioritized, compared with thinking and analytical
-skills, in opposition to what many people might generally assume or take for granted in this big data age (pg 44)
+> Our analysis concludes that in the Feeling Economy, jobs will emphasize feeling tasks more, and workers will need to get more people-oriented, rather than more data-oriented, if they wish to leverage the benefits of thinking AI. Even for managerial jobs that have always had both people-focused tasks (i.e., communicating and coordinating with people), as well as thinking-focused tasks (i.e., analyzing data or information), our empirical evidence shows that the "soft" aspects of managerial jobs are becoming even more important and will need to be prioritized, compared with thinking and analytical skills, in opposition to what many people might generally assume or take for granted in this big data age (pg 44)
 
 ![feelings_value.png](feelings_value.png)
 
